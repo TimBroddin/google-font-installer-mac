@@ -20,10 +20,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TimBroddin/google-font-installer.git"
+    "url": "git+https://github.com/TimBroddin/google-font-installer-mac.git"
   },
   "bugs": {
-    "url": "https://github.com/TimBroddin/google-font-installer/issues"
+    "url": "https://github.com/TimBroddin/google-font-installer-mac/issues"
   },
   "homepage": "https://github.com/TimBroddin/google-font-installer#readme",
   "devDependencies": {
