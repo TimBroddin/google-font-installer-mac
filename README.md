@@ -18,6 +18,8 @@ bunx google-font-installer-mac web
 
 Opens a local web server with a browser-based interface for searching, previewing, and installing fonts. Fonts are rendered live in the browser via Google Fonts.
 
+![Web UI](webui.png)
+
 ## How it works
 
 1. Loads the full Google Fonts catalog (1900+ fonts)
